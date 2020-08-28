@@ -97,7 +97,7 @@ We had a couple of persistant bugs that followed us for most of the week. We spe
 
 
 # Link to Live App
-Link to [Live App]()
+Link to [HabitZen](https://habit-zen.herokuapp.com/)
 
 # Authors who worked on Version 1
 * Chengusoyane Kargbo 
